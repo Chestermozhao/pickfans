@@ -1,0 +1,44 @@
+.inputBox {
+  margin-top: 15px;
+  width: 55%;
+}
+
+.comment-avatar {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+
+.inputContent {
+  background: none;
+  outline: none;
+  border: 0px;
+}
+
+.bottom-line {
+  padding-top: 10px;
+  height: 50px;
+  width: 75%;
+  display: inline;
+  cursor: text;
+  /* padding-bottom: 2px; */
+  border-bottom: 1px solid black;
+  /* -ms-flex: 1 1 1e-9px;
+  -webkit-flex-basis: 1e-9px; */
+}
+
+.btns {
+  width: 50%;
+  text-align: right;
+  margin-top: 5px;
+}
+
+.btns button {
+  border-radius: 10px;
+  margin-right: 5px;
+}
+
+.blueBackground {
+  background-color: #055fd4;
+  color: #fff;
+}

@@ -1,0 +1,59 @@
+.comment-box {
+  margin-left: 20%;
+}
+
+.comment-icon {
+  width: 50px;
+  height: 30px;
+}
+
+.pc {
+  border-radius: 50px;
+}
+
+.comment-created {
+  color: grey;
+}
+
+.inline-search-result-box {
+  position: absolute;
+  background-color: #fff;
+  left: 37%;
+  top: 7%;
+  text-align: left;
+  width: 24%;
+  z-index: 1;
+}
+
+.like-box {
+  margin-left: 5.5%;
+}
+
+.like-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 0.5%;
+}
+
+.like-count {
+  margin-right: 1.2%;
+  color: #606060;
+}
+
+.like-icon:hover {
+  cursor: pointer;
+}
+
+.dislike-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 0.5%;
+}
+
+.dislike-icon:hover {
+  cursor: pointer;
+}
+
+.responseBtn:hover {
+  cursor: pointer;
+}

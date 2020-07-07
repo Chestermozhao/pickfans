@@ -1,0 +1,59 @@
+.hot-icon {
+  width: 30px;
+  height: 30px;
+  padding-bottom: 5px;
+}
+
+.title-content {
+  font-size: 1.8em;
+  margin-top: 2%;
+}
+
+.hotvideo-box {
+  left: 18%;
+}
+
+.hotitems-title {
+  font-size: 1.3em;
+}
+
+.video-info-box {
+  width: 50%;
+}
+
+.hotitems-pub {
+  color: #9c9c9c;
+  font-size: 0.9em;
+}
+
+.hotitems-desc {
+  color: #a1a1a1;
+}
+
+.channel-img-box {
+  text-align: center;
+}
+
+.channel-img {
+  border-radius: 50%;
+}
+
+.channel-info-box {
+  width: 40%;
+}
+
+.hot-sub-btn-box {
+  margin-top: 30%;
+  border-radius: 10px;
+  background-color: #c00;
+  color: white;
+}
+
+.hot-sub-btn-box:hover {
+  cursor: pointer;
+}
+
+.hot-sub-icon {
+  width: 20px;
+  height: 20px;
+}

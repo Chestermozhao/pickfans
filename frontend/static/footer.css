@@ -1,0 +1,17 @@
+.fab {
+  font-size: 1.5em;
+  margin-left: 10px;
+  color: rgb(27, 26, 26);
+}
+
+.fab:hover {
+  cursor: pointer;
+}
+
+.footer-box {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background-color: black;
+  color: #fff;
+}

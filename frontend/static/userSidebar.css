@@ -1,0 +1,43 @@
+button {
+  cursor: pointer;
+}
+
+.manage-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.sidebar-link {
+  text-decoration: none;
+  color: #ccc;
+}
+
+.sidebar-link:hover {
+  text-decoration: none;
+  color: #ccc;
+}
+
+.sidebar-box {
+  background-color: #21303e;
+  height: 93vh;
+  width: 120px;
+}
+
+.disable:hover {
+  cursor: not-allowed !important;
+}
+
+.list-box {
+  cursor: pointer;
+  padding: 1rem 0;
+}
+
+.list-box:hover {
+  background-color: rgba(194, 193, 193, 0.5);
+}
+
+@media screen and (max-height: 850px) {
+  .sidebar-box {
+    position: relative;
+  }
+}
